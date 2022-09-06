@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+201908-citibike-tripdata.zip
+newyork_citibike.csv
+
 
 # Distribution / packaging
 .Python
